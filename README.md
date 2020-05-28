@@ -19,6 +19,7 @@ Problema 1: "Save robin hood"
 	hood) pana la oricare nod ocupat de lorzi, daca raspunsul este afirmativ 
 	atunci trebuie sa blochez mai multe noduri, in caz contrar verific daca 
 	blochez mai putine noduri voi avea tot raspunsul afirmativ.
+	
 	K = numarul de permutari;
 	N = Noduri;
 	M = Muchii;
